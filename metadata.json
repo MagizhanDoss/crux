@@ -1,0 +1,6 @@
+{
+  "name": "Crux - Problem Discovery & Validation Engine",
+  "description": "Connects real-world problems from Smart India Hackathon (SIH), CPGRAMS, and open government data with student builders, featuring novelty scoring and submission-ready brief generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
